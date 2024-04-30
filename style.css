@@ -20,6 +20,8 @@ padding: 0;
     background-image: url("img/image\ copy.png");
     background-repeat: no-repeat;
     background-size: contain;
+    align-items: center;
+    text-align: center;
 }
 .container{
     height: 100vh;
@@ -32,6 +34,8 @@ padding: 0;
     padding: 1em;
     color: var(--branco-principal);
     display: block;
+    text-decoration: none;
+    margin-bottom: 1em;
  }
  .botao-secundario{
     background-color: transparent;
@@ -47,3 +51,9 @@ padding: 0;
     font-size: 28px;
     font-weight: 700;
  }
+.container-imagem{
+    margin: 1em 0 2em 0;
+}
+.container-caixa{
+    margin: 0 6em;
+}
