@@ -117,7 +117,7 @@ padding: 0;
 .lista-link a:active{
     color: purple;
 }
-.container-botao:houver{
+.container-botao:hover{
     background-color: var(--botao-azul-efeito);
     color:var(--cor-de-fundo);
 }
